@@ -156,17 +156,6 @@ python manage.py runserver
    python manage.py migrate
    ```
 
-## 📁 Project Structure
-
-```
-Little_Lemon_Web_Application/
-├── LittleLemon/                 # Project settings
-├── restaurant/                  # Main app
-├── venv/                        # Virtual environment
-├── requirements.txt             # Python dependencies
-└── manage.py                    # Django management script
-```
-
 ## 🔄 API Endpoints
 
 - `/api/auth/` - Authentication endpoints
