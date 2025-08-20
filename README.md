@@ -1,4 +1,3 @@
-```markdown
 # Little Lemon Restaurant Web Application
 
 A full-featured Django web application for the Little Lemon restaurant, featuring API endpoints, user authentication, and database management.
@@ -30,7 +29,6 @@ sudo apt-get install python3-dev default-libmysqlclient-dev build-essential pkg-
 **macOS (Homebrew):**
 ```bash
 brew install mysql pkg-config openssl
-```
 
 **Windows:**
 Install [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
